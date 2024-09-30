@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Task Ease</string>
+    <string name="back_button">Back</string>
+
+    <string name="home_title">Task</string>
+    <string name="no_task_message">No Tasks.Add Task!!</string>
+
+    <string name="task_edit_title">Task Edit</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_priority">Priority</string>
+    <string name="task_dead_line">Dead Line</string>
+    <string name="dead_line_select">Select Date</string>
+    <string name="save_action">Save</string>
+
+</resources>
